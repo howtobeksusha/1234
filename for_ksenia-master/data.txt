@@ -1,0 +1,8 @@
+1	lada9	WAS	7	8	
+2	lada7	WAS	2	3	
+3	vesta	WAS	5	4	
+4	6s	MERS	3	4	
+5	7s	MESR	4	1	
+6	8q	MERS	3	6	
+7	qqq	BMW	4	1	
+8	max	BMW	2	8	

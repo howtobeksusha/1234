@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1136</width>
+    <height>594</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>440</y>
+      <width>231</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add currier</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>440</y>
+      <width>221</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>RemoveLast</string>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="display">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>100</y>
+      <width>441</width>
+      <height>281</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>490</y>
+      <width>171</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Choose ind</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>490</y>
+      <width>231</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Get raise count</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_6">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>490</y>
+      <width>211</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Not more Choosen</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_7">
+    <property name="geometry">
+     <rect>
+      <x>870</x>
+      <y>490</y>
+      <width>171</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MakeGraph</string>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graph">
+    <property name="geometry">
+     <rect>
+      <x>810</x>
+      <y>180</y>
+      <width>256</width>
+      <height>192</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1136</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
